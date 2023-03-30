@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /08-dom/01-select-one/script.js - 8.1: sélection par id
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

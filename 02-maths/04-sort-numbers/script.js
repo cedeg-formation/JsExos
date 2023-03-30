@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /02-maths/04-sort-numbers/script.js - 2.4: classer des nombres
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

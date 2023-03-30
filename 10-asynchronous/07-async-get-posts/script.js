@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /10-asynchronous/07-async-get-posts/script.js - 10.7: chargement d'articles (async/await)
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 09/05/2019
  */
 

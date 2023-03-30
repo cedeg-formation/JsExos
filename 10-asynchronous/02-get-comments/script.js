@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /10-asynchronous/02-get-comments/script.js - 10.2: chargement d'articles et de commentaires
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 09/05/2019
  */
 

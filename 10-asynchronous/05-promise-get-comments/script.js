@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /10-asynchronous/05-promise-get-comments/script.js - 10.5: chargement d'articles et de commentaires (Promise)
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 09/05/2019
  */
 

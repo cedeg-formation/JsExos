@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /08-dom/04-attr-create/script.js - 8.4: manipulation d'attributs & création d'élément
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

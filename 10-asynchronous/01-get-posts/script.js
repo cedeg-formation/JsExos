@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /10-asynchronous/01-get-posts/script.js - 10.1: chargement d'articles
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 09/05/2019
  */
 

@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /04-dates/05-get-spooky-fridays/script.js - 4.5: calcul des vendredi 13
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

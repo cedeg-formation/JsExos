@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /07-classes/02-methods/script.js - 7.2: méthodes
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 08/05/2019
  */
 

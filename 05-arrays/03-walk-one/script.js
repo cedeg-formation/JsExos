@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /05-arrays/03-walk-one/script.js - 5.3: parcours de tableau (1)
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

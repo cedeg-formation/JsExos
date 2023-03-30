@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /01-base/01-var-alert/script.js - 1.1: var & alert
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

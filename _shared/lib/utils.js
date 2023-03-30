@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /_shared/lib/utils.js - Misc utils
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 09/05/2019
  */
 

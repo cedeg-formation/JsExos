@@ -218,19 +218,19 @@ Object.entries(data).forEach(([section, exos], i) => {
             `${exodirname}/index.html`,
             [
                 `<!--`,
-                ` * becode/javascript`,
+                ` * Cedeg/javascript`,
                 ` *`,
                 ` * ${exodirname.replace(".", "")}/index.html - ${i + 1}.${j +
                     1}: ${title}`,
                 ` *`,
-                ` * coded by leny@BeCode`,
+                ` * coded by Leny`,
                 ` * started at 26/10/2018`,
                 `-->`,
                 `<!DOCTYPE html>`,
                 `<html lang="fr">`,
                 `  <head>`,
                 `    <meta charset="UTF-8" />`,
-                `    <title>BeCode/JavaScript - ${i + 1}.${j +
+                `    <title>Cedeg/JavaScript - ${i + 1}.${j +
                     1}: ${title}</title>`,
                 ``,
                 `    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" />`,
@@ -240,7 +240,7 @@ Object.entries(data).forEach(([section, exos], i) => {
                 `  <body>`,
                 `    <div class="container">`,
                 `      <header>`,
-                `        <h1>BeCode / JavaScript</h1>`,
+                `        <h1>Cedeg / JavaScript</h1>`,
                 `        <h2>`,
                 `          <span>${i + 1}.${j + 1}</span>`,
                 `          <strong>${title}</strong>`,
@@ -263,12 +263,12 @@ Object.entries(data).forEach(([section, exos], i) => {
         fs.writeFileSync(
             `${exodirname}/script.js`,
             [
-                `/* becode/javascript`,
+                `/* Cedeg/javascript`,
                 ` *`,
                 ` * ${exodirname.replace(".", "")}/script.js - ${i + 1}.${j +
                     1}: ${title}`,
                 ` *`,
-                ` * coded by leny@BeCode`,
+                ` * coded by Leny`,
                 ` * started at 26/10/2018`,
                 ` */`,
                 ``,

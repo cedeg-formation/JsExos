@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /04-dates/02-title-by-hour-two/script.js - 4.2: texte en fonction de l'heure (2)
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

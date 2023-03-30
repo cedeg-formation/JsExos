@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /05-arrays/06-find-in-array/script.js - 5.6: recherche dans un tableau
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /08-dom/09-match-password-one/script.js - 8.9: vérification de mots de passe (1)
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

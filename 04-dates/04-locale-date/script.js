@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /04-dates/04-locale-date/script.js - 4.4: date textuelle
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

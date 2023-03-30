@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /05-arrays/10-reduce-array/script.js - 5.10: utilisation d'un reducer
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

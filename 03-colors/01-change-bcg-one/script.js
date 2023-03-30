@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /03-colors/01-change-bcg-one/script.js - 3.1: couleur de fond (1)
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

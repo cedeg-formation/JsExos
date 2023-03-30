@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /05-arrays/13-find-in-set/script.js - 5.13: recherche dans un Set
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

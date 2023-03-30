@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /10-asynchronous/08-async-get-comments/script.js - 10.8: chargement d'articles et de commentaires (async/await)
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 09/05/2019
  */
 

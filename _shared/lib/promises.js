@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /_shared/lib/promises.js - Small lib for promises exercises
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 09/05/2019
  */
 

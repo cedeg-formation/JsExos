@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /07-classes/01-instances/script.js - 7.1: instances
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 08/05/2019
  */
 

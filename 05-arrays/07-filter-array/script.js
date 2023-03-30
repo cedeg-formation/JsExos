@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /05-arrays/07-filter-array/script.js - 5.7: filtrer un tableau
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

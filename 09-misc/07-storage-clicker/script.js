@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /09-misc/07-storage-clicker/script.js - 9.7: jeu : clicker persistant
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

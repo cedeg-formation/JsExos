@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /08-dom/02-select-two/script.js - 8.2: sélection par sélecteur css
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

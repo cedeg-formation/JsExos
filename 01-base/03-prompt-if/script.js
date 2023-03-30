@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /01-base/03-prompt-if/script.js - 1.3: prompt & if
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

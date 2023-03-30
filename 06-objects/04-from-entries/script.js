@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /06-objects/04-from-entries/script.js - 6.4: fromEntries
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 08/05/2019
  */
 

@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /05-arrays/12-manipulate-set/script.js - 5.12: manipulation d'un Set
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

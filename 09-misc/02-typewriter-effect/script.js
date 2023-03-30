@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /09-misc/02-typewriter-effect/script.js - 9.2: effet machine à écrire
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

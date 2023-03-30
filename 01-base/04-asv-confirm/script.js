@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /01-base/04-asv-confirm/script.js - 1.4: ASV avec confirmation
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

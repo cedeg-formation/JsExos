@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /09-misc/06-guess-number/script.js - 9.6: jeu : trouver un nombre
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /10-asynchronous/06-promise-handling-errors/script.js - 10.6: gestion d'erreur (Promise)
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 09/05/2019
  */
 

@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /05-arrays/11-dedupe-array/script.js - 5.11: dédoublonnement d'un tableau
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /09-misc/01-waving-text/script.js - 9.1: effet vague
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

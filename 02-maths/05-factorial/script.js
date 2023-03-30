@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /02-maths/05-factorial/script.js - 2.5: Factorielle
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /02-maths/03-even-square/script.js - 2.3: carrés des pairs
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

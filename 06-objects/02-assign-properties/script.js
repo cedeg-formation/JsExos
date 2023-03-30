@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /06-objects/02-assign-properties/script.js - 6.2: assigner des propriétés
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 08/05/2019
  */
 

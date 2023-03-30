@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /08-dom/03-select-three/script.js - 8.3: sélection multiple par sélecteur css
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

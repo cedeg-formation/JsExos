@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /02-maths/06-fizzbuzz/script.js - 2.6: fizzbuzz
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

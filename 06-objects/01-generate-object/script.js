@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /06-objects/01-generate-object/script.js - 6.1: générer un object
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 08/05/2019
  */
 

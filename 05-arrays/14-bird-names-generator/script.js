@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /05-arrays/14-bird-names-generator/script.js - 5.14: générateur de noms d'oiseau
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 08/05/2019
  */
 

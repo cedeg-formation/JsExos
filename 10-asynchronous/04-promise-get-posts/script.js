@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /10-asynchronous/04-promise-get-posts/script.js - 10.4: chargement d'articles (Promise)
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 09/05/2019
  */
 

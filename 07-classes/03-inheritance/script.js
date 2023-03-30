@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /07-classes/03-inheritance/script.js - 7.3: héritage
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 08/05/2019
  */
 

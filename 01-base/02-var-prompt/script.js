@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /01-base/02-var-prompt/script.js - 1.2: var & prompt
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

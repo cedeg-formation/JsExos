@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /05-arrays/08-array-includes/script.js - 5.8: présence dans un tableau
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

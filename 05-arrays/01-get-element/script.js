@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /05-arrays/01-get-element/script.js - 5.1: élément de tableau
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

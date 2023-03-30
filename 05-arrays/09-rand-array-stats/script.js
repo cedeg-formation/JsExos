@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /05-arrays/09-rand-array-stats/script.js - 5.9: tableau aléatoire & statistiques
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

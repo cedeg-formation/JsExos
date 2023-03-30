@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /08-dom/06-mini-carousel/script.js - 8.6: mini carousel
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 

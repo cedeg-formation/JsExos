@@ -1,8 +1,8 @@
-/* becode/javascript
+/* Cedeg/javascript
  *
  * /04-dates/03-age-by-select/script.js - 4.3: calculateur d'âge
  *
- * coded by leny@BeCode
+ * coded by Leny
  * started at 26/10/2018
  */
 
