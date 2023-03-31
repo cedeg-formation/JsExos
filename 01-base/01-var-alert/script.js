@@ -11,4 +11,6 @@
 
 (() => {
     // your code here
+    const helloWorld = "Hello World";
+    window.alert(helloWorld);
 })();
