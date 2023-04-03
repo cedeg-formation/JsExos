@@ -11,6 +11,9 @@
 
 (() => {
     // your code here
+    // Demander le prénom à l'utilisateur
     const name = window.prompt('Quel est ton nom ?');
+    // Dire bonjour avec le nom
+    window.alert(`Bonjour ${name}`);
 
 })();
