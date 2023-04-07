@@ -11,4 +11,17 @@
 
 (() => {
     // your code here
+
+    var gift = prompt("you want a gift:");
+    if (gift === "yes") {
+        alert("congratulate!");
+    } else {
+        alert("get the hell out of here !");
+        window.location = "https://www.youtube.com/watch?v=zP_10bDxaVo";
+
+        
+    } 
+
 })();
+
+

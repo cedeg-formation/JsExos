@@ -12,8 +12,11 @@
 (() => {
     // to get the value of an input: document.getElementById("element-id").value
 
+document.getElementById("element-id").value = 
+
     document.getElementById("addition").addEventListener("click", () => {
         // perform an addition
+        console.log("addition");
     });
 
     document.getElementById("substraction").addEventListener("click", () => {

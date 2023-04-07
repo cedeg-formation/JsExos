@@ -11,4 +11,6 @@
 
 (() => {
     // your code here
+    var name = prompt("Please enter your name:");
+    console.log("Bonjour " + name);
 })();

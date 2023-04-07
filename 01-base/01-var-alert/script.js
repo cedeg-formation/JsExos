@@ -12,3 +12,6 @@
 (() => {
     // your code here
 })();
+const helloworld = "Hello world";
+
+alert("Hello World!");
